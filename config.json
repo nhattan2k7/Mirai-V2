@@ -1,0 +1,190 @@
+{
+    "language": "vi",
+    "keyActive": "",
+    "DeveloperMode": false,
+    "autoCreateDB": true,
+    "allowInbox": true,
+    "autoClean": true,
+    "commandDisabled": [],
+    "eventDisabled": [],
+    "EMAIL": "",
+    "PASSWORD": "",
+    "OTPKEY": "",
+    "BOTNAME": "𝔹𝕠𝕥 𝕋𝕒𝕟",
+    "PREFIX": "/",
+    "ADMINBOT": [
+        "100077529039506",
+        "100067746274110"
+    ],
+    "NDH": [
+        "100077529039506",
+        "100067746274110"
+    ],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "data.sqlite"
+        }
+    },
+    "APPSTATEPATH": "appstate.json",
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "error",
+        "selfListen": true,
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36"
+    },
+    "version": "1.2.14",
+    "caesar": {
+        "caeserPassword": "266303"
+    },
+    "cave": {
+        "cooldownTime": 2000000
+    },
+    "checktt": {
+        "maxColumn": 300
+    },
+    "daily": {
+        "cooldownTime": 43200000,
+        "rewardCoin": 200
+    },
+    "diemdanh": {
+        "cooldownTime": 3000000
+    },
+    "gif": {
+        "TENOR": "73YIAOY3ACT1"
+    },
+    "instagram": {
+        "APIKEY": "81b0466275mshb5265735e50299cp1b01c5jsn3e7f93112fd3"
+    },
+    "math": {
+        "WOLFRAM": "T8J8YV-H265UQ762K"
+    },
+    "menu": {
+        "autoUnsend": true,
+        "delayUnsend": 55
+    },
+    "rankup": {
+        "autoUnsend": true,
+        "unsendMessageAfter": 5
+    },
+    "rname": {
+        "APIKEY": "mi451266190"
+    },
+    "sauce": {
+        "SAUCENAO_API": "29be078b8f5239a1202742869f92c25955bdcab3"
+    },
+    "shortlink": {
+        "bitlyAPI": "150ef1bc3af86500796d645c86f56766e4802566"
+    },
+    "soundcloud": {
+        "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
+    },
+    "surprise": {
+        "log": true,
+        "out": "",
+        "kickAll": "",
+        "delThread": ""
+    },
+    "weather": {
+        "OPEN_WEATHER": "c4ef85b93982d6627681b056e24bd438"
+    },
+    "work": {
+        "cooldownTime": 1200000
+    },
+    "log": {
+        "enable": true
+    },
+    "fbcover": {
+        "APIKEY": "tdunguwu"
+    },
+    "help": {
+        "autoUnsend": true,
+        "delayUnsend": 120
+    },
+    "pokemon": {
+        "APIKEY": ""
+    },
+    "adminUpdate": {
+        "autoUnsend": true,
+        "sendNoti": true,
+        "timeToUnsend": 10
+    },
+    "sing": {
+        "API_KEY": "mzkFree_XNPP4LYOG9H8VY83GHG",
+        "YOUTUBE_API": "AIzaSyCKLLk55EafnP___8fMuA0KCaUVW8EPScY",
+        "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
+    },
+    "tiktok": {
+        "API_KEY": "mzkFree_XNPP4LYOG9H8VY83GHG"
+    },
+    "ghép": {
+        "APIKEY": "nhatdepzaivl"
+    },
+    "audio": {
+        "YOUTUBE_API": "AIzaSyA3ExvIgr8Flog0ZXOR5bHGNfRyu9FTn4k"
+    },
+    "fbdl": {
+        "API_KEY": "mzk_7DHDGE2AHTNTVRBVUEZ"
+    },
+    "fbvd": {
+        "API_KEY": "mzkVip_LawerTeam"
+    },
+    "igdlvideo": {
+        "API_KEY": "mzkFree_722124509AC10"
+    },
+    "ins": {
+        "APIKEY": ""
+    },
+    "mail10p": {
+        "APIKEY": "chinhdz"
+    },
+    "sim": {
+        "APIKEY": ""
+    },
+    "sing2": {
+        "API_KEY": "mzk_S342O83362Z7V853AG0"
+    },
+    "song": {
+        "API_KEY": "mzk_7DHDGE2AHTNTVRBVUEZ"
+    },
+    "tiktok2": {
+        "API_KEY": "mzkVip_LawerTeam"
+    },
+    "tlt": {
+        "API_KEY": "chdz"
+    },
+    "video2": {
+        "API_KEY": "mzkVip_LawerTeam"
+    },
+    "videotiktok": {
+        "APIKEY": "a012e05802msh4ce48bff26d5c0ap151d85jsn4edde7f89de0"
+    },
+    "working": {
+        "cooldownTime": 1200000
+    },
+    "youtube": {
+        "TENOR": "73YIAOY3ACT1"
+    },
+    "ytb2mp3": {
+        "YOUTUBE_API": "AIzaSyA25_Ne0gD1DeciKIM8PzZBLvQ0MgGRlr0"
+    },
+    "fbseach": {
+        "APIKEY": "filebot"
+    },
+    "sub": {
+        "APIKEY": ""
+    },
+    "xidach": {
+        "maxPlayers": 5,
+        "normalWinBonus": 1,
+        "superWinBonus": 2,
+        "epicWinBonus": 4
+    },
+    "ytbmp3": {
+        "YOUTUBE_API": "AIzaSyDgspOs5o4p7Q9CEneUckEfGAQB0W7Ka20"
+    },
+    "zombie": {
+        "cooldownTime": 1200000
+    }
+}
